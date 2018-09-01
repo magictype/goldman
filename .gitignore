@@ -1,0 +1,6 @@
+*.zip
+
+.DS_Store
+
+# font editor temporary files
+*(Autosaved).glyphs
