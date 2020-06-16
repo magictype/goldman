@@ -1,5 +1,5 @@
-# Gold
-Gold is a Latin display typeface designed by Jaikishan Patel. Genre: Passion, Science Fiction, Sports, Drama, Thriller genres. The Gold font family includes 2 weights - Regular: designed for the large headers & titles. Bold: designed for heavyweight title designs.
+# Goldman
+Goldman is a Latin display typeface designed by Jaikishan Patel. Genre: Passion, Science Fiction, Sports, Drama, Thriller genres. The Goldman font family includes 2 weights - Regular: designed for the large headers & titles. Bold: designed for heavyweight title designs.
 
 ![gold_poster_wide](https://user-images.githubusercontent.com/42322651/44945196-60fa0b00-ae01-11e8-9eae-4852c3d4a8d8.jpg)
 
