@@ -8,4 +8,4 @@ A day, I found myself melting inside. Melted for long. Really long. I have no wo
 Read more at: http://magictype.in/gold/
 
 ## Licence
-Red Rose Pro is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/gold/blob/master/OFL.txt)
+This typeface is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/gold/blob/master/OFL.txt)
