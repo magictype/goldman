@@ -12,7 +12,8 @@ DisplayStrings = (
 G2RnopHAO,
 "K/Eng QXæðk/kgreenlandic tw/f_i ¢/colonmonetary $/euro/guarani/kip/lira/naira/peso/rupeeIndian ^/infinity &\012/cedillacomb/space/space/cedillacomb",
 "K/Eng QXæðk/kgreenlandic tw/f_i ¢/colonmonetary $/euro/guarani/kip/lira/naira/peso/rupeeIndian ^/infinity &/cedillacomb",
-"Deput/amacron te/space Evita/space Z/amacron l/imacron te-Grosa/space (JKP)/space sac/imacron ja,/space ka/space 2018.gad/amacron/space tika/space veikti/space groz/imacron jumi/space noteikumos/space par/space adopcijas/space k/amacron rt/imacron bu,/space kas/space aizliedza/space uz/space/amacron rzem/emacron m/space adopt/emacron t/space b/emacron rnus/space no/space aud/zcaron u/gcommaaccent imen/emacron m./space \"Ar/space adopciju/space uz/space/amacron rzem/emacron m/space Latvij/amacron/space tiek/space piekopta/space m/imacron tiem/space apv/imacron ta/space s/emacron rdien/imacron/scaron u/space politika,\"/space teica/space politi/kcommaaccent e,/space piebilstot,/space ka/space publiskaj/amacron/space telp/amacron/space tira/zcaron/emacron t/amacron/space inform/amacron cija/space par/space b/emacron rnu/space adopciju/space uz/space/amacron rzem/emacron m/space esot/space m/imacron ts,/space ko/space izplatot/space tie,/space kuri/space ir/space ieinteres/emacron ti/space/amacron rvalstu/space adopcijas/space saglab/amacron/scaron an/amacron ,/space jo/space da/lcommaaccent ai/space no/space vi/ncommaaccent iem/space ir/space ar/imacron/space finansi/amacron las/space intereses."
+"Deput/amacron te/space Evita/space Z/amacron l/imacron te-Grosa/space (JKP)/space sac/imacron ja,/space ka/space 2018.gad/amacron/space tika/space veikti/space groz/imacron jumi/space noteikumos/space par/space adopcijas/space k/amacron rt/imacron bu,/space kas/space aizliedza/space uz/space/amacron rzem/emacron m/space adopt/emacron t/space b/emacron rnus/space no/space aud/zcaron u/gcommaaccent imen/emacron m./space \"Ar/space adopciju/space uz/space/amacron rzem/emacron m/space Latvij/amacron/space tiek/space piekopta/space m/imacron tiem/space apv/imacron ta/space s/emacron rdien/imacron/scaron u/space politika,\"/space teica/space politi/kcommaaccent e,/space piebilstot,/space ka/space publiskaj/amacron/space telp/amacron/space tira/zcaron/emacron t/amacron/space inform/amacron cija/space par/space b/emacron rnu/space adopciju/space uz/space/amacron rzem/emacron m/space esot/space m/imacron ts,/space ko/space izplatot/space tie,/space kuri/space ir/space ieinteres/emacron ti/space/amacron rvalstu/space adopcijas/space saglab/amacron/scaron an/amacron ,/space jo/space da/lcommaaccent ai/space no/space vi/ncommaaccent iem/space ir/space ar/imacron/space finansi/amacron las/space intereses.",
+R
 );
 classes = (
 {
@@ -14722,9 +14723,9 @@ leftMetricsKey = O;
 unicode = 0051;
 },
 {
-color = 1;
+color = 8;
 glyphname = R;
-lastChange = "2020-07-09 02:35:26 +0000";
+lastChange = "2020-07-09 17:35:46 +0000";
 layers = (
 {
 anchors = (
@@ -14818,11 +14819,8 @@ nodes = (
 "811 81 OFFCURVE",
 "758 77 OFFCURVE",
 "687 120 CURVE SMOOTH",
-"636 151 OFFCURVE",
-"618 176 OFFCURVE",
-"569 210 CURVE SMOOTH",
-"561 215 OFFCURVE",
-"553 220 OFFCURVE",
+"661 136 OFFCURVE",
+"580 206 OFFCURVE",
 "545 224 CURVE",
 "681 233 OFFCURVE",
 "705 333 OFFCURVE",
@@ -14849,6 +14847,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"329 314 OFFCURVE",
+"280 315 OFFCURVE",
+"222 319 CURVE",
 "222 493 LINE",
 "495 493 LINE SMOOTH",
 "554 493 OFFCURVE",
@@ -14858,9 +14859,9 @@ nodes = (
 "573 353 OFFCURVE",
 "552 325 OFFCURVE",
 "494 319 CURVE SMOOTH",
-"434 313 OFFCURVE",
-"346 311 OFFCURVE",
-"222 319 CURVE"
+"462 316 OFFCURVE",
+"422 314 OFFCURVE",
+"372 314 CURVE SMOOTH"
 );
 }
 );
