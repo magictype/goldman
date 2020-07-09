@@ -51,6 +51,10 @@ value = (
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2020-07-09 02:24:12 +0000";
@@ -129,6 +133,20 @@ fontMaster = (
 {
 ascender = 756;
 capHeight = 588;
+customParameters = (
+{
+name = typoAscender;
+value = 800;
+},
+{
+name = typoDescender;
+value = -300;
+},
+{
+name = "New Parameter";
+value = "New Value";
+}
+);
 descender = -244;
 horizontalStems = (
 86,
