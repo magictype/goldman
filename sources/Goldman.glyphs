@@ -214,7 +214,7 @@ verticalStems = (
 122,
 132
 );
-weightValue = 500;
+weightValue = 400;
 xHeight = 448;
 },
 {
@@ -79617,7 +79617,7 @@ rightKerningGroup = NULL;
 );
 instances = (
 {
-interpolationWeight = 500;
+interpolationWeight = 400;
 instanceInterpolations = {
 "083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4" = 1;
 };
